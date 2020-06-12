@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Haiku for a week: Day 0"
 date:   2020-06-12 12:17:00 -0500
-categories: update
+categories: haiku
 ---
 
 # An introduction
