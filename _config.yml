@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MikeModder's Blog
-email: oddman56@protonmail.com
+email: oddman56 (at) protonmail (dot) com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, I'm MikeModder. My real name is Michael (surprisingly enough) and I'm just a person
   who's interesting in computers and programming.
