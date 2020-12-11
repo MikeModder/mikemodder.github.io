@@ -147,4 +147,4 @@ Should I hear back from ViewSonic, I'll write a follow-up post on their response
 
 ---
 
-*An amazingly interesting blog post (no bias here!) by Michael. "Published" October 29, 2020*
+*An amazingly interesting blog post (no bias here!) by Michael.*
